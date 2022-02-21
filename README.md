@@ -2,7 +2,9 @@
 
 # Welcome to my GitHub! 
 
-Hi, I'm Jon! I am a **Senior Data Scientist** at **Nielsen**, a **Computational Social Scientist** at **UNC Chapel Hill**, and a **Data Educator** with **Correlation One**. I started in data science before it was even called data science and have worked in numerous domains throughout the entire spectrum, but I find that I am always learning and love this field for that very reason! 
+### Hi, I'm Jon! 
+
+I am a **Senior Data Scientist** at **Nielsen**, a **Computational Social Scientist** at **UNC Chapel Hill**, and a **Data Educator** with **Correlation One**. I started in data science before it was even called data science and have worked in numerous domains throughout the entire spectrum, but I find that I am always learning and love this field for that very reason! 
 
 My areas of expertise include **Natural Language Processing**, **Machine Learning**, **Deep Learning**, **Data Visualization**, **Inferential and Predictive Statistics**, **Linear and Hierarchical Regression**, **Classification, Clustering**, **Recommendation Systems**, **Decision Trees**, **Neural Networks**, and **Network Analyses**. When I first started, about 10 years ago, I worked in **GIS**, **Remote Sensing**, and **Environmental System Modeling**, but I dont do much of that work these days. I still feel that there are always new ideas to explore and new tools to add to the metaphorical toolbox!
 
