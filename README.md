@@ -1,3 +1,4 @@
+<img src="Black Technology LinkedIn Banner.png"/>
 
 # Welcome to my GitHub! 
 
@@ -11,4 +12,4 @@ I love this field and love to connect with those in it! Please feel free to chec
 
 Thanks and hope to talk soon! 
 
-<img src="Black Technology LinkedIn Banner.png"/>
+<img src="Math_Background.png"/>
