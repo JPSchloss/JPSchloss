@@ -11,5 +11,3 @@ I have taught on the entire data pipeline and have guided/consulted on 100s of d
 I love this field and love to connect with those in it! Please feel free to check out my website at **www.JonathanSchlosser.com** or to connect with me on [**LinkedIn**](https://www.linkedin.com/in/jonathanphilipschlosser/). 
 
 Thanks and hope to talk soon! 
-
-<img src="Math_Background.png"/>
