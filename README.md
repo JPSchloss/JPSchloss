@@ -1,4 +1,4 @@
-<img src="Black Technology LinkedIn Banner.png"/>
+<img src="Black Technology LinkedIn Banner.png"/> 
 
 # Welcome to my GitHub! 
 
